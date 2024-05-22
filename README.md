@@ -23,3 +23,11 @@ run the script
 
 kickout prompt screen allows you to choose between periodically kicking users out or kick all users out only once
 
+## Logs
+All kickouts are logged and can be viewed
+```bash
+   cd /path/to/kickout
+   cat kickout.log
+```
+
+
